@@ -1,43 +1,35 @@
-🔥 Telegram Hack Tool - Ultimate Exploit 🚀
+### Telegram Hack Tool 🚀
 
-⚠ WARNING: This tool is for educational purposes only! We are not responsible for any misuse.
+### ⚠ WARNING: This tool is for educational purposes only! We are not responsible for any misuse.
 
-🚀 The Most Advanced Telegram Exploit Tool is HERE!
-💀 Unlock any Telegram account in just a few minutes!
-⚡ Super Fast | 100% Undetectable | Anonymous | Works on Termux
+### 🚀 The Most Advanced Telegram Exploit Tool is HERE!
 
+### 💀 Unlock any Telegram account in just a few minutes!
 
----
-
-📌 Features
-
-✅ Bypasses Telegram Security 🔓
-✅ Auto-fetches target data 🕵️‍♂️
-✅ Anonymous & Untraceable 🕶️
-✅ Works on Android, Linux, and Termux
+### this tool is:
+⚡ Super Fast
+😈 100% Undetectable 
+☠️ Anonymous 
+🗿 Works on Termux
 
 
 ---
 
-🛠 Installation
+###📌 Features
 
-💾 Clone the repository:
+###✅ Bypasses Telegram Security 🔓
+###✅ Auto-fetches target data 🕵️‍♂️
+###✅ Anonymous & Untraceable 🕶️
+###✅ Works on Android, Linux, and Termux
 
-```bash
-git clone https://github.com/Hamidid71816/telegram_hack.git
-cd telegram_hack```
 
-🔗 Install dependencies:
+---
 
-```bash
-chmod +x setup.sh
-bash setup.sh```
+🛠 Installation:
 
-🚀 Run the tool:
-
-```bash
-python TG_Hack.py```
-
+```git clone https://github.com/Hamidid71816/telegram_hack.git```
+```cd telegram_hack && chmod +x setup.sh```
+```bash setup.sh && python3 TG_Hack.py
 
 ---
 
