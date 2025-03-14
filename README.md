@@ -1,19 +1,5 @@
-### Telegram Hack Tool
-
-by this tool Unlock any Telegram account in just a few minutes! 💀
-
+DDOS Attack Tool 😋
 ---
-
-### 📌 Features
-
-Bypasses Telegram Security 🔓
-Auto-fetches target data 🕵️‍
-Anonymous & Untraceable 🗿
-Works on Android, Linux, and Termux 😋
-
-
----
-
 🛠 Installation:
 
 ```git clone https://github.com/Hamidid71816/telegram_hack.git```
