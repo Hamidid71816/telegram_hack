@@ -1,15 +1,15 @@
 ### Telegram Hack Tool
 
-💀 Unlock any Telegram account in just a few minutes!
+by this tool Unlock any Telegram account in just a few minutes! 💀
 
 ---
 
 ### 📌 Features
 
-### Bypasses Telegram Security 🔓
-### Auto-fetches target data 🕵️‍
-### Anonymous & Untraceable 🗿
-### Works on Android, Linux, and Termux 😋
+Bypasses Telegram Security 🔓
+Auto-fetches target data 🕵️‍
+Anonymous & Untraceable 🗿
+Works on Android, Linux, and Termux 😋
 
 
 ---
