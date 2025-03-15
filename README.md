@@ -1,6 +1,4 @@
-Telegram Hack tool 😋
-
-Development Language: python3
+telegram hack tool 😈 (  Having  target phone number is required )
 ---
 🛠 Installation:
 
