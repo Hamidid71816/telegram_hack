@@ -1,4 +1,4 @@
-DDOS Attack Tool 😋
+Telegram Hack tool 😋
 ---
 🛠 Installation:
 
